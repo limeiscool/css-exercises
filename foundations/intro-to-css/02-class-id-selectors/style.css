@@ -1,10 +1,9 @@
-body > *:nth-child(odd) {
+.odd {
   background-color: rgb(255, 152, 192);
   font-family: Verdana, DejaVu Sans, sans-serif;
-
 }
 
-.two {
+#two {
   color: blue;
   font-size: 36px;
 }
@@ -13,7 +12,7 @@ body > *:nth-child(odd) {
   font-size: 24px;
 }
 
-.fourth {
+#four {
   background-color: lightgreen;
   font-size: 24px;
   font-weight: bold;
